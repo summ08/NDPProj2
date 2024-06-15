@@ -1,0 +1,17 @@
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\bin\Debug\net6.0-windows\ndpOdev2.exe
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\bin\Debug\net6.0-windows\ndpOdev2.deps.json
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\bin\Debug\net6.0-windows\ndpOdev2.runtimeconfig.json
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\bin\Debug\net6.0-windows\ndpOdev2.dll
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\bin\Debug\net6.0-windows\ndpOdev2.pdb
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.csproj.AssemblyReference.cache
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.Form1.resources
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.csproj.GenerateResource.cache
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.AssemblyInfoInputs.cache
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.AssemblyInfo.cs
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.dll
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\refint\ndpOdev2.dll
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.pdb
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ndpOdev2.genruntimeconfig.cache
+C:\Users\Sümeyye\source\repos\ndpOdev2\ndpOdev2\obj\Debug\net6.0-windows\ref\ndpOdev2.dll
